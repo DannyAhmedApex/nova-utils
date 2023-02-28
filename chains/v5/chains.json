@@ -39,10 +39,10 @@
         "event": "https://polkascan.io/polkadot/event/{event}"
       }
     ],
-    "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Polkadot.svg",
+    "icon": "https://raw.githubusercontent.com/DannyAhmedApex/nova-wallet/nova-utils/master/icons/chains/white/Polkadot.svg",
     "addressPrefix": 0,
     "types": {
-      "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/types/polkadot.json",
+      "url": "https://raw.githubusercontent.com/DannyAhmedApex/nova-wallet/nova-utils/master/chains/types/polkadot.json",
       "overridesCommon": true
     },
     "externalApi": {
@@ -56,7 +56,7 @@
       },
       "crowdloans": {
         "type": "github",
-        "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/crowdloan/polkadot.json"
+        "url": "https://raw.githubusercontent.com/DannyAhmedApex/nova-wallet/nova-utils/master/crowdloan/polkadot.json"
       }
     },
     "options": [
