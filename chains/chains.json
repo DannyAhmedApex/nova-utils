@@ -1,7 +1,7 @@
 [
   {
-    "chainId": "91b171bb158e2d3848fa23a9f1c25182fb8e20313b2c1eb49219da7a70ce90c3",
-    "name": "Polkadot",
+    "chainId": "496e2f8a93bf4576317f998d01480f9068014b368856ec088a63e57071cd1d49",
+    "name": "Frequency",
     "assets": [
       {
         "assetId": 0,
@@ -13,7 +13,7 @@
     ],
     "nodes": [
       {
-        "url": "wss://rpc.polkadot.io",
+        "url": "ws://10.0.2.2:9944",
         "name": "Parity node"
       },
       {
@@ -39,10 +39,10 @@
         "event": "https://polkascan.io/polkadot/event/{event}"
       }
     ],
-    "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Polkadot.svg",
+    "icon": "https://raw.githubusercontent.com/DannyAhmedApex/nova-utils/master/icons/chains/white/Polkadot.svg",
     "addressPrefix": 0,
     "types": {
-      "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/types/polkadot.json",
+      "url": "https://raw.githubusercontent.com/DannyAhmedApex/nova-utils/master/chains/types/polkadot.json",
       "overridesCommon": true
     },
     "externalApi": {
@@ -56,7 +56,7 @@
       },
       "crowdloans": {
         "type": "github",
-        "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/crowdloan/polkadot.json"
+        "url": "https://raw.githubusercontent.com/DannyAhmedApex/nova-utils/master/crowdloan/polkadot.json"
       }
     },
     "options": [
