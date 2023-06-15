@@ -15,10 +15,6 @@
       {
         "url": "ws://10.0.2.2:9944",
         "name": "Frequency node-1"
-      },
-      {
-        "url": "ws://192.168.3.12:9944",
-        "name": "Frequency node-2"
       }
     ],
     "explorers": [
